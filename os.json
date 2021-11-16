@@ -1,0 +1,18 @@
+{
+    "name":	        "void4",
+    "description":  "A void4 Linux port for ARM devices RPi4",
+    "release_date": "2021-09-30",
+    "feature_level": 0,
+    "supports_usb_root": false,
+    "supported_hex_revisions": "1040,1041,2082",    
+    "supported_models": [
+        "Pi 4"
+    ],
+    "version":	    "20210930",
+    "kernel":	    "4.14.79",
+    "supports_backup": "true",
+    "url":          "http://http://www.voidlinux.org/",
+    "group":        "Minimal",
+    "username":     "root",
+    "password":     "voidlinux"
+}

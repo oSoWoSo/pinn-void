@@ -1,0 +1,26 @@
+        {
+            "os_name":	    "void4",
+            "description":  "A Void Linux port for ARM devices RPi3",
+            "release_date": "2021-09-30",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 4"
+            ],                
+            "supports_usb_root": false,
+            "supports_backup":  "true",
+            "url":              "http://http://www.voidlinux.org/",
+            "group":            "Minimal",
+            "download_size":    63208864,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/void4/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/void4/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/void4/void4.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/void4/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/void4/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/void4/boot_void.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/void4/root_void.tar.xz"
+            ],
+            "nominal_size":  453
+        }
+

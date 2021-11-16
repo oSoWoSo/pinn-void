@@ -1,0 +1,19 @@
+{
+    "name":	    "void1_musl",
+    "description":  "A void1_musl Linux port for ARM devices RPi1",
+    "release_date": "2017-02-20",
+    "feature_level": 35644412,
+    "supports_usb_root": false,
+    "supported_models": [
+    	"Pi Model",
+	    "Pi Compute Module",
+  	    "Pi Zero"
+    ],
+    "version":	    "20170220",
+    "kernel":	    "4.14.79",
+    "supports_backup": "update",
+    "url":          "http://http://www.voidlinux.eu/",
+    "group":        "Minimal",
+    "username":     "root",
+    "password":     "voidlinux"
+}

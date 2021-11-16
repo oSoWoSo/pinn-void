@@ -1,0 +1,8 @@
+Release Notes
+-------------
+Void Linux
+
+release_date:   2017-02-20
+version:	    20170220
+kernel:	        4.4.47
+

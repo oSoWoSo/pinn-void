@@ -1,0 +1,19 @@
+{
+    "name":	        "void2",
+    "description":  "A void2 Linux port for ARM devices RPi2/3",
+    "release_date": "2017-02-20",
+    "feature_level": 0,
+    "supports_usb_root": false,
+    "supported_hex_revisions": "1040,1041,2082",    
+    "supported_models": [
+        "Pi 2",
+        "Pi 3 Model B Rev"
+    ],
+    "version":	    "20170220",
+    "kernel":	    "4.14.79",
+    "supports_backup": "update",
+    "url":          "http://http://www.voidlinux.eu/",
+    "group":        "Minimal",
+    "username":     "root",
+    "password":     "voidlinux"
+}

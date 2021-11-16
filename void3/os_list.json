@@ -1,0 +1,26 @@
+        {
+            "os_name":	    "void3",
+            "description":  "A Void Linux port for ARM devices RPi3",
+            "release_date": "2018-11-11",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 3"
+            ],                
+            "supports_usb_root": false,
+            "supports_backup":  "true",
+            "url":              "http://http://www.voidlinux.eu/",
+            "group":            "Minimal",
+            "download_size":    63208864,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/void3/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/void3/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/void3/void3.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/void3/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/void3/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/void3/boot_void.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/void3/root_void.tar.xz"
+            ],
+            "nominal_size":  453
+        }
+

@@ -1,0 +1,27 @@
+        {
+            "os_name":	    "void2_musl",
+            "description":  "A Void Linux port for ARM devices RPi2/3",
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3 Model B Rev"
+            ],                
+            "supports_usb_root": false,
+            "supports_backup":  "update",
+            "url":              "http://http://www.voidlinux.eu/",
+            "group":            "Minimal",
+            "download_size":    248,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/void2_musl/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/void2_musl/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot_voidm.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/void2_musl/root_voidm.tar.xz"
+            ],
+            "nominal_size":     204
+        }
+
